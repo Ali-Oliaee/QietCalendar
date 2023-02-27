@@ -5,7 +5,7 @@
 <div align="center">
 <br/>
 
-<h4 align="center"><strong>A project to learn data structures and algorithms</strong></h4>
+<h4 align="center"><strong>A project to share rour schedule with your friends</strong></h4>
 <p align="center">
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#get-started">Get Started</a> •
